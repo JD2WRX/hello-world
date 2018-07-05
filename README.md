@@ -1,4 +1,3 @@
 # hello-world
-----
 
-# One important edit.
+One important edit.
