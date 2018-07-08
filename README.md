@@ -1,6 +1,4 @@
-## ReadMe
-
-**My First GitHub ReadMe file**
+## First GitHub ReadMe
 
 ***Sub-Topic One**
 
